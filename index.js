@@ -1,14 +1,4 @@
-// When a user is prompted for information about the application repository, a high-quality, professional README.md is generated with:
-// The title of my project
-// Sections entitled:
-// Description
-// Table of Contents
-// Installation
-// Usage
-// License
-// Contributing
-// Tests
-// Questions
+// import
 const fs = require("fs");
 const path = require('path');
 const inquirer = require("inquirer");
