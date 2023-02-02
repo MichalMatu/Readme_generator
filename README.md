@@ -26,14 +26,8 @@ This is a Readme Generator project. It is designed to help users quickly and eas
 
 
 ## Usage
-1. To use the Readme Generator, simply follow the prompts and enter the necessary information. The Readme Generator will then generate a comprehensive and concise Readme.md file for your project.
-2. Provide license information
-3. The Readme Generator is open source and released under the MIT License. 
-4. Provide contributing information
-5. Contributions to the Readme Generator are welcome. Please submit any feature requests or bug reports to the GitHub repository.
-6. Provide test information
-7. The Readme Generator has been tested using the Jest testing framework.
-8. Provide contact information
+To use the Readme Generator, simply follow the prompts and enter the necessary information. The Readme Generator will then generate a comprehensive and concise Readme.md file for your project.
+
 
 
 ## License
