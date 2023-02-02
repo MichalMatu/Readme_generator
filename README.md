@@ -10,13 +10,13 @@
 * [Questions](#questions)
 ## Description
 This is a Readme Generator project. It is designed to help users quickly and easily generate a comprehensive and concise Readme.md file for their project. The Readme Generator will prompt the user for information about the project and then generate a Readme.md file with the following sections: 
-### Project Description 
-### Installation 
-### Usage 
-### Licence 
-### Contributing 
-### Tests 
-### Questions
+- Project Description 
+- Installation 
+- Usage 
+- Licence 
+- Contributing 
+- Tests 
+- Questions
 
 ## Installation
 1. Clone the repository from GitHub: https://github.com/MichalMatu/Readme_generator
